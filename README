@@ -1,0 +1,12 @@
+Source : https://www.youtube.com/watch?v=oBt53YbR9Kk&t=1543s
+
+
+1. Make it work
+	a. Visualize the problem as a tree
+	b. Implement the tree using recursion
+	c. test it
+2. Make it efficient
+	a. add a memo object
+	b. add a base case to return memo object
+	c. store return values into memo
+	
